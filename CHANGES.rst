@@ -1,5 +1,5 @@
-4.3.0.dev0 (Next Release)
--------------------------
+4.3.0rc231208 (2023-12-08)
+--------------------------
 
 - On Python 3.8 and later, ``setuptools`` is no longer a runtime
   dependency.  Patch by Ofek Lev.

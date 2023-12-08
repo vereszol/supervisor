@@ -12,6 +12,8 @@
 - Parsing ``environment=`` has been improved to allow escaped quotes
   inside quotes and quoted empty values. Patch by Stefan Friesel.
 
+- Drop Python 3.4 support
+
 4.2.5 (2022-12-23)
 ------------------
 
